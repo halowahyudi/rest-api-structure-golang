@@ -1,0 +1,7 @@
+database:
+  user: your_db_user
+  password: your_db_password
+  host: localhost
+  name: your_db_name
+server:
+  port: "8080"
