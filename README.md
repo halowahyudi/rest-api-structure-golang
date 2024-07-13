@@ -1,4 +1,4 @@
-# Project Name
+# Simple Rest Api Golang Structure.
 
 This is a Go project using Gin for REST API with route definitions directly in `route.go` and MySQL integration.
 
